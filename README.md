@@ -99,7 +99,7 @@ The purpose of this activity is to help you understand the level in the balance 
 
 You're the UX Designer of a sneakers brand made from Biomaterials.
 
-**Write the (english) Tagline (catchline) of the homepage**.
+**Write the english and french Tagline (catchline) of the homepage**.
 
 A tagline should be:
 
@@ -115,9 +115,9 @@ A tagline should be:
 
 ### Logo redesign - 10 minutes
 
-Jul - french rapper - randomly discovered your portfolio and was very impressed.
+Dua Lipa - English singer - randomly discovered your portfolio and was very impressed.
 
-**He would like you to redesign his Jul logo**. 
+**She would like you to redesign her artist name**. 
 
 You have a complete carte blanche. 
 
