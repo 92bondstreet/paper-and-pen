@@ -51,17 +51,22 @@ Sketching is not about creating something beautiful: your only task is to sketch
 1. Chair
 1. Cat
 1. Flower
+1. Credit card
+1. Fork
 1. House
 1. Box
 1. Laptop
+1. cap
 1. Bottle
 1. Car
+1. Pen
 1. Telephone
 1. Clock
 1. Desk lamp
 1. Boots
 1. Bicycle
 1. Aeroplane
+1. Calculator
 1. Postage stamp
 
 ### Sketch 5 posters - 5 minutes per poster
